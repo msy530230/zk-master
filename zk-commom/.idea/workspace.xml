@@ -47,7 +47,7 @@
         <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/2.7.1/curator-framework-2.7.1-sources.jar!/org/apache/curator/framework/listen/ListenerContainer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="39" column="49" lean-forward="true" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+              <caret line="39" column="49" lean-forward="false" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
               <folding>
                 <element signature="e#1454#1455#0" expanded="true" />
                 <element signature="e#1527#1528#0" expanded="true" />
@@ -791,12 +791,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505528008800</updated>
-      <workItem from="1505528013326" duration="8338000" />
+      <workItem from="1505528013326" duration="8856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8338000" />
+    <option name="totallyTimeSpent" value="8856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -987,7 +987,7 @@
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/2.7.1/curator-framework-2.7.1-sources.jar!/org/apache/curator/framework/listen/ListenerContainer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="39" column="49" lean-forward="true" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+          <caret line="39" column="49" lean-forward="false" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
           <folding>
             <element signature="e#1454#1455#0" expanded="true" />
             <element signature="e#1527#1528#0" expanded="true" />
